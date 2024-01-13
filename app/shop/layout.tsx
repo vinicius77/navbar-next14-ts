@@ -16,8 +16,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <Header />
-      <body className={radioCan.className}>{children}</body>
+      <body className={radioCan.className}>
+        <Header />
+        {children}
+      </body>
     </html>
   );
 }
