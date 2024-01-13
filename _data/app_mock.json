@@ -1,0 +1,340 @@
+{
+  "analytic_id": "eu_charaL6ULDZWWB57ugaRqii",
+  "config": {
+    "app_wide_topic": {
+      "analytic_id": "eu_ptpYZ9pwCcSvpPeX7HLhRlg",
+      "app_keys": ["Y2hvaWNlbHktZXUvYXBwcy9yYUw2VUxEWldXQjU3dWdhUnFpaQ"],
+      "created": "2024-01-03T12:32:35Z",
+      "key": "Y2hvaWNlbHktZXUvcHVzaF90b3BpY3MvWVo5cHdDY1N2cFBlWDdITGhSbGc",
+      "title": "App-wide topic: Blank App",
+      "updated": "2024-01-03T12:32:35Z"
+    },
+    "is_contest_firebase_connection": true,
+    "is_data_service_enabled": true,
+    "is_login_required_at_startup": false
+  },
+  "created": "2024-01-03T12:32:35Z",
+  "default_nav_item": {
+    "is_close_current_screen": false,
+    "is_swipe_to_close": false,
+    "is_toolbar_hidden": false,
+    "screen_key": "Y2hvaWNlbHktZXUvc2NyZWVucy9yNWxSMXo4ZTl0UHZhV3JiR0hHUQ"
+  },
+  "fallback_screen_key": "Y2hvaWNlbHktZXUvc2NyZWVucy9EdXgyOFFuUTdGb3FZaGJLRXU2bQ",
+  "image": {
+    "analytic_id": "eu_imge2v31tVxFRq8fUCEil8o",
+    "created": "2024-01-03T12:34:28Z",
+    "format": "webp",
+    "has_alpha": true,
+    "key": "Y2hvaWNlbHktZXUvaW1hZ2VzL2UydjMxdFZ4RlJxOGZVQ0VpbDhv",
+    "mini_data": "AQQyMgAMAwEAAhEDEQA/AOlJAGTwKo3F+clYf++jSajOc+Sp92qiKDlrVWnyxJGkdzlmJ+poUkHIJH0ojQyOqjqTU1zB5DgAkqRwak5bSa5h8N3Ihw3zD361fjdZF3KcisgVPbymKQf3T1pJmlKu4u0tjSoooqz0DClfzJWY9zU9ra+eCd4GO3eq7KVdlPY4p8UjROGQ4NB5ya5veNO3tFgbduLHFSTRLMm1uO+RTo2LxqxGMjOKdQdyjHlsloVfsKf32o+xJ/eale8VHKlDkHFJ9tX+4fzqdDB+wW5OEIAG48UVGLjIB8s80U7o154FLUISk3mAfK/86qituSNZUKOMg1lz2skJzjcvqKZz1qbT5kW5L1EULENxA69qbDfHOJR+IqiKUVNzN153uT3DK8zMhyDSRIZHCjvSRRvIcKM1oQQCFfVj1NK1whTdWV3sShQAAB0opaKs9GwUUUUAZ98ig8KB9BUNsAXGQD9aKKlnmz+M1VAAwAAPalooqj0Y7BRRRQM/",
+    "ratio": 1.0,
+    "status": "0",
+    "title": "",
+    "updated": "2024-01-03T12:34:29Z"
+  },
+  "key": "Y2hvaWNlbHktZXUvYXBwcy9yYUw2VUxEWldXQjU3dWdhUnFpaQ",
+  "screens": [
+    {
+      "analytic_id": "eu_scrr5lR1z8e9tPvaWrbGHGQ",
+      "bottom_nav": {
+        "is_scroll": true,
+        "nav_list": [
+          {
+            "alt_icon": {
+              "analytic_id": "eu_imgfvPT5lKTDt7TNbJ9AFUt",
+              "created": "2024-01-03T12:35:39Z",
+              "format": "webp",
+              "has_alpha": true,
+              "key": "Y2hvaWNlbHktZXUvaW1hZ2VzL2Z2UFQ1bEtURHQ3VE5iSjlBRlV0",
+              "mini_data": "AQQyMgAMAwEAAhEDEQA/AOmoorO1XVrewRo2ciZkJQAZ+lACz6mfPa3s7drmVPv4OFX6mmDVJYHVb+0a3VjgSBgy59z2qjpmtabZ2UcRd9+Mudh5Y9amn1/Sp4XikZyrjBBQ0AbQORkUtYeg6vbyQQWbyHzxlRkdQOnP0rcoAKKKKACuJ8USb9Ycf3FVf0z/AFrtq4DWZPM1a5b/AKaEflxQBSooooAtaXJ5WpWz+ki/zr0KvNY22SKw7EGvSEbcisO4zQA6iiigBCcDNecXD+ZcSP8A3mJ/WvRyMjBrJbw3prMT5bjPYOaAOKortP8AhGtN/uSf99mj/hGtN/uSf99mgDi69D02TzdOtn9Y1/lVD/hGtN/uSf8AfZrUghSCFIohtRBgCgCSiiigAooooAKKKKACiiigAooooA8=",
+              "ratio": 1.0,
+              "status": "0",
+              "title": "",
+              "updated": "2024-01-03T12:35:40Z"
+            },
+            "icon": {
+              "analytic_id": "eu_imgXVAxPwM8zjBnqtrXAvXj",
+              "created": "2024-01-03T12:35:29Z",
+              "format": "webp",
+              "has_alpha": true,
+              "key": "Y2hvaWNlbHktZXUvaW1hZ2VzL1hWQXhQd004empCbnF0clhBdlhq",
+              "mini_data": "AQQyMgAMAwEAAhEDEQA/AOmoorP1PU4rNXiyxnKEqqqT9M0AE+pnz2t7O3a5lT7+DhV+ppg1SWB1W/tGt1Y4EgYMufc9qq6ZqdnZ2UcRSbfjLnyjyx61NPrFhPC8UiTFXGCDEaANYHIyKWsbRNTjNvBaTGQTcqu5CAcdOfpWzQAUUUUAFZlr+8168f8A55xon9a06zNI+e51Cb+9OV/IYoA06KKKAMzWvk+xzf3LhfyPFadZ2vrnSpWHVCr/AJEVfRtyKw7jNADqKKKAEJwM1naAM6f5h6yyO/61okZGDWb/AGFZjhWnUeiykAUAadFZn9h2v/PS4/7/ABo/sO1/56XH/f40AWdTj83TblPWNv5Uumyebp1s/rGv8qqnQ7QjBe4I/wCupq/BCkEKRRDaiDAFAElFFFABRRRQAUUUUAFFFFABRRRQBw==",
+              "ratio": 1.0,
+              "status": "0",
+              "title": "",
+              "updated": "2024-01-03T12:35:30Z"
+            },
+            "is_close_current_screen": false,
+            "is_swipe_to_close": false,
+            "is_toolbar_hidden": false,
+            "style": {
+              "alpha": 1.0,
+              "letter_spacing": 0,
+              "line_height": 0,
+              "max_lines": 0
+            },
+            "title": "Shop"
+          },
+          {
+            "alt_icon": {
+              "analytic_id": "eu_imgSnoFWPY77S2RLBaG576U",
+              "created": "2024-01-03T12:36:30Z",
+              "format": "webp",
+              "has_alpha": true,
+              "key": "Y2hvaWNlbHktZXUvaW1hZ2VzL1Nub0ZXUFk3N1MyUkxCYUc1NzZV",
+              "mini_data": "AQQyMgAMAwEAAhEDEQA/AOlJABJOAOprNk8QabG5Uz5I7qpIo8SO0ejTFTgnAP0JriI0eVwkalmPQAZJoA7X/hI9M/57N/3waP8AhI9M/wCezf8AfBrk/wCzL/8A585v++DR/Zl//wA+c3/fBoA6z/hI9M/57N/3wa0YJ4rmISwuHQ9CK88nt5rcgTxPGT0DDGa6Hwa7f6THn5RtOPfmgDpqKKKAMrxP/wAgaX6r/OuQsJ57e8jltl3Sg/KMZzXX+J/+QNL9V/nXIWE81teRy267pQeFxnNAG7/bGuf8+H/kJqP7Y1z/AJ8P/ITUf21rX/Ph/wCQmo/trWv+fD/yE1AGXrF7fXbxi9i8raDtG0r/ADrT8G/626+i/wBazNYvr28eMXkPlbQdo2kfzrT8G/626+i/1oA6iiiigDK8Tf8AIGl+q/zrj7K6ksrlLiLBZOgI4r0G4gjuYHhlXcjjBFc7J4S+c+Xd4XsGTn+dAFf/AISu8/54w/kf8aP+ErvP+eMP5H/Gpv8AhEn/AOftf++P/r0f8Ik//P2v/fH/ANegDJ1PVZ9TKGZUUJnAUeta3g3/AFl19F/rR/wiT/8AP4v/AHx/9etvS9Nh02AxxEszHLMepNAF2iiigAooooAKKKKACiiigAooooA/",
+              "ratio": 1.0,
+              "status": "0",
+              "title": "",
+              "updated": "2024-01-03T12:36:30Z"
+            },
+            "icon": {
+              "analytic_id": "eu_imggfbOV8TnCqdk7mRMLnef",
+              "created": "2024-01-03T12:36:23Z",
+              "format": "webp",
+              "has_alpha": true,
+              "key": "Y2hvaWNlbHktZXUvaW1hZ2VzL2dmYk9WOFRuQ3FkazdtUk1MbmVm",
+              "mini_data": "AQQyMgAMAwEAAhEDEQA/AOlJABJOAOprObXdPViolZsd1QkfnR4gZl0qQKSNxVTj0JFXFWG1twPkjiQd+ABQBS/t6w/vyf8Aftv8KP7esP78n/ftv8Ksf2nYf8/cH/fYo/tOw/5+4P8AvsUAV/7esP78g/7Zt/hV+CeK5iEsLh0PQikhnguVJhkSQDg7SDWfpyiHV7+GMbY/kfaOgJHNAGrRRRQBmeIv+QW3++n/AKEKtX0EFxZvFcttiI+Y5xiqviL/AJBbf76f+hCrV9BDc2bxXDbYiOWzjFAGF/Y+h/8AP/8A+RVo/sfQ/wDn/wD/ACKtH9i6L/z/AP8A5FWj+xdF/wCf/wD8irQBqaPZWNokhspfN3EbjuDfypLP/kPX/wDuR/ypdHsbKzSQ2c3m7iNx3A/ypLP/AJD1/wD7kf8AKgDTooooAzPEX/IKf2dP/QhVu7tY720aCUnY4HKnmpLiCO5geGVdyOMEVnLYajCojh1L92vCh4gSB9aAK3/CKWf/AD2m/Mf4Uf8ACKWf/Pab8x/hVv7Jq3/QSj/78ij7Jq3/AEEo/wDvyKAJdM0qDTA4hZ2L4yWPpUNnzrt/j+7H/Kj7Jqx/5iSfhCKtWFillG3ztJJIdzyN1Y0AWqKKKACiiigAooooAKKKKACiiigD",
+              "ratio": 1.0,
+              "status": "0",
+              "title": "",
+              "updated": "2024-01-03T12:36:24Z"
+            },
+            "is_close_current_screen": false,
+            "is_swipe_to_close": false,
+            "is_toolbar_hidden": false,
+            "style": {
+              "alpha": 1.0,
+              "letter_spacing": 0,
+              "line_height": 0,
+              "max_lines": 0
+            },
+            "title": "News"
+          },
+          {
+            "alt_icon": {
+              "analytic_id": "eu_imgITdquCQQfX7dERxso2dQ",
+              "created": "2024-01-03T12:36:00Z",
+              "format": "webp",
+              "has_alpha": true,
+              "key": "Y2hvaWNlbHktZXUvaW1hZ2VzL0lUZHF1Q1FRZlg3ZEVSeHNvMmRR",
+              "mini_data": "AQQyMgAMAwEAAhEDEQA/AOmpKWuJ1e8uLfXLiSGZ0ZWwMHtigDtqK5zTvFCPiO+XYf8Anoo4/EV0EUscyB4nV1PQqcigB9FFFABRRRQAVwWvf8hi5/3v6V3tcFr3/IYuf97+lAFCrNlf3Ni+63lK+q9QfwqtTkR5HCIpZj0AGSaAOt07xLb3GI7oeTJ/e/hP+FbgIIyDkGuV03wxJJiS9by1/wCea9T9fSupRFjRUUYVRgD2oAdRRRQAVweu86zc/wC//Su8qt9gtftRufIQzH+IigDlNN8PXV3h5v3ER7kfMfoK6mw021sExBGA3dzyx/GrdFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAH",
+              "ratio": 1.0,
+              "status": "0",
+              "title": "",
+              "updated": "2024-01-03T12:36:00Z"
+            },
+            "icon": {
+              "analytic_id": "eu_imgLAW6kjI9IADi8MFYHE4S",
+              "created": "2024-01-03T12:35:53Z",
+              "format": "webp",
+              "has_alpha": true,
+              "key": "Y2hvaWNlbHktZXUvaW1hZ2VzL0xBVzZrakk5SUFEaThNRllIRTRT",
+              "mini_data": "AQQyMgAMAwEAAhEDEQA/AOmpKWsKK0e71G/kS4khmjkARlORjHQjuKAN2issajcWRCalDhegnjGVP1HatGKWOZA8Tq6noVORQA+iiigAooooAKzNL/4/9S/66j+VadZml/8AH/qX/XUfyoA0iAwIIBB6g1nS6V5TmbTpTbSHkr1RvqK0qqXmo29oQjEvKfuxIMsfwoArx6o0DiLUoTbueBIOY2/HtWkCCMg5BrKa1vdUH+mH7NbH/linLN9TWoiLGioowqjAHtQA6iiigArGtruCzu9SeeQIPNGB3PHYVs1W+wWv2o3JgQzH+IigCn5t/qP+pU2duf42H7xh7DtVuz0+3swTEmXP3pG5Zvxq1RQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB",
+              "ratio": 1.0,
+              "status": "0",
+              "title": "",
+              "updated": "2024-01-03T12:35:54Z"
+            },
+            "is_close_current_screen": false,
+            "is_swipe_to_close": false,
+            "is_toolbar_hidden": false,
+            "style": {
+              "alpha": 1.0,
+              "letter_spacing": 0,
+              "line_height": 0,
+              "max_lines": 0
+            },
+            "title": "Videos"
+          }
+        ],
+        "style": {
+          "alpha": 1.0,
+          "letter_spacing": 0.0,
+          "line_height": 0,
+          "max_lines": 0,
+          "primary_color": "#737373",
+          "secondary_color": "#F305E2"
+        }
+      },
+      "created": "2024-01-03T12:32:37Z",
+      "full_screen": false,
+      "key": "Y2hvaWNlbHktZXUvc2NyZWVucy9yNWxSMXo4ZTl0UHZhV3JiR0hHUQ",
+      "swipe_to_close": false,
+      "title": "Main Screen",
+      "toolbar": {
+        "image": {
+          "analytic_id": "eu_imge2v31tVxFRq8fUCEil8o",
+          "created": "2024-01-03T12:34:28Z",
+          "format": "webp",
+          "has_alpha": true,
+          "key": "Y2hvaWNlbHktZXUvaW1hZ2VzL2UydjMxdFZ4RlJxOGZVQ0VpbDhv",
+          "mini_data": "AQQyMgAMAwEAAhEDEQA/AOlJAGTwKo3F+clYf++jSajOc+Sp92qiKDlrVWnyxJGkdzlmJ+poUkHIJH0ojQyOqjqTU1zB5DgAkqRwak5bSa5h8N3Ihw3zD361fjdZF3KcisgVPbymKQf3T1pJmlKu4u0tjSoooqz0DClfzJWY9zU9ra+eCd4GO3eq7KVdlPY4p8UjROGQ4NB5ya5veNO3tFgbduLHFSTRLMm1uO+RTo2LxqxGMjOKdQdyjHlsloVfsKf32o+xJ/eale8VHKlDkHFJ9tX+4fzqdDB+wW5OEIAG48UVGLjIB8s80U7o154FLUISk3mAfK/86qituSNZUKOMg1lz2skJzjcvqKZz1qbT5kW5L1EULENxA69qbDfHOJR+IqiKUVNzN153uT3DK8zMhyDSRIZHCjvSRRvIcKM1oQQCFfVj1NK1whTdWV3sShQAAB0opaKs9GwUUUUAZ98ig8KB9BUNsAXGQD9aKKlnmz+M1VAAwAAPalooqj0Y7BRRRQM/",
+          "ratio": 1.0,
+          "status": "0",
+          "title": "",
+          "updated": "2024-01-03T12:34:29Z"
+        },
+        "style": {
+          "alpha": 1.0,
+          "gravity": "left",
+          "icon_tint": "#F305E2",
+          "letter_spacing": 0.0,
+          "line_height": 0,
+          "max_lines": 0
+        },
+        "subtitle": "",
+        "title": ""
+      },
+      "updated": "2024-01-03T12:43:44Z"
+    },
+    {
+      "analytic_id": "eu_scrDux28QnQ7FoqYhbKEu6m",
+      "created": "2024-01-03T12:32:37Z",
+      "full_screen": false,
+      "key": "Y2hvaWNlbHktZXUvc2NyZWVucy9EdXgyOFFuUTdGb3FZaGJLRXU2bQ",
+      "swipe_to_close": true,
+      "title": "Sub Screen",
+      "toolbar": {
+        "image": {
+          "analytic_id": "eu_imge2v31tVxFRq8fUCEil8o",
+          "created": "2024-01-03T12:34:28Z",
+          "format": "webp",
+          "has_alpha": true,
+          "key": "Y2hvaWNlbHktZXUvaW1hZ2VzL2UydjMxdFZ4RlJxOGZVQ0VpbDhv",
+          "mini_data": "AQQyMgAMAwEAAhEDEQA/AOlJAGTwKo3F+clYf++jSajOc+Sp92qiKDlrVWnyxJGkdzlmJ+poUkHIJH0ojQyOqjqTU1zB5DgAkqRwak5bSa5h8N3Ihw3zD361fjdZF3KcisgVPbymKQf3T1pJmlKu4u0tjSoooqz0DClfzJWY9zU9ra+eCd4GO3eq7KVdlPY4p8UjROGQ4NB5ya5veNO3tFgbduLHFSTRLMm1uO+RTo2LxqxGMjOKdQdyjHlsloVfsKf32o+xJ/eale8VHKlDkHFJ9tX+4fzqdDB+wW5OEIAG48UVGLjIB8s80U7o154FLUISk3mAfK/86qituSNZUKOMg1lz2skJzjcvqKZz1qbT5kW5L1EULENxA69qbDfHOJR+IqiKUVNzN153uT3DK8zMhyDSRIZHCjvSRRvIcKM1oQQCFfVj1NK1whTdWV3sShQAAB0opaKs9GwUUUUAZ98ig8KB9BUNsAXGQD9aKKlnmz+M1VAAwAAPalooqj0Y7BRRRQM/",
+          "ratio": 1.0,
+          "status": "0",
+          "title": "",
+          "updated": "2024-01-03T12:34:29Z"
+        },
+        "style": {
+          "alpha": 1.0,
+          "gravity": "left",
+          "letter_spacing": 0.0,
+          "line_height": 0,
+          "max_lines": 0
+        },
+        "subtitle": "",
+        "title": ""
+      },
+      "updated": "2024-01-03T12:43:45Z"
+    }
+  ],
+  "splash": {
+    "style": {
+      "alpha": 1.0,
+      "bg_color": "#4CE2A7",
+      "letter_spacing": 0.0,
+      "line_height": 0,
+      "max_lines": 0
+    }
+  },
+  "studio_app_profile": {
+    "auth_methods": {
+      "is_apple": false,
+      "is_email": true,
+      "is_facebook": false,
+      "is_google": false,
+      "is_sms": true
+    },
+    "firebase_project_key": "Y2hvaWNlbHktZXUvZmlyZWJhc2VfcHJvamVjdHMvMURtS1kxd3V2WTlUaEFsbjhyRno",
+    "is_age_enabled": true,
+    "is_auto_profile_image_enabled": true,
+    "is_city_enabled": true,
+    "is_forgot_your_password_enabled": true,
+    "is_gender_enabled": true,
+    "is_logout_enabled": true,
+    "is_name_enabled": true,
+    "is_profile_enabled": true,
+    "is_profile_image_enabled": true,
+    "login": {
+      "bottom_text": "By signing up you agree to <a href=\"https://support.choicely.com/terms\" target=\"_blank\">Terms of Service</a> and <a href=\"https://support.choicely.com/privacy\" target=\"_blank\">Privacy Policy</a>",
+      "description": "This is description of Choicely Studio app",
+      "is_powered_by_choicely": true,
+      "powered_by_choicely_link": "https://choicely.com/",
+      "style": {
+        "alpha": 1.0,
+        "bg_color": "#FFFFFF",
+        "letter_spacing": 0.0,
+        "line_height": 0,
+        "max_lines": 0,
+        "primary_color": "#4CE2A7",
+        "secondary_color": "#4CE2A7",
+        "text_color": "#737373"
+      },
+      "title": "Sign in"
+    },
+    "profile": {
+      "description": "Information in your profile is private",
+      "is_powered_by_choicely": true,
+      "powered_by_choicely_link": "https://choicely.com/",
+      "style": {
+        "alpha": 1.0,
+        "bg_color": "#FFFFFF",
+        "letter_spacing": 0.0,
+        "line_height": 0,
+        "max_lines": 0,
+        "primary_color": "#000000",
+        "secondary_color": "#4CE2A7",
+        "text_color": "#737373"
+      },
+      "title": "Profile"
+    },
+    "provider": {
+      "analytic_id": "eu_bndLhXD4mWKXfqKCSKVYI06_pvd8q8nA8ynLA4cHBdMPDQI",
+      "created": "2024-01-03T12:32:34Z",
+      "is_anonymous_auth_enabled": true,
+      "is_register_enabled": true,
+      "key": "Y2hvaWNlbHktZXUvYnJhbmRzL0xoWEQ0bVdLWGZxS0NTS1ZZSTA2L3Byb3ZpZGVycy84cThuQTh5bkxBNGNIQmRNUERRSQ",
+      "title": "Web App provider",
+      "updated": "2024-01-03T12:32:34Z"
+    },
+    "provider_key": "Y2hvaWNlbHktZXUvYnJhbmRzL0xoWEQ0bVdLWGZxS0NTS1ZZSTA2L3Byb3ZpZGVycy84cThuQTh5bkxBNGNIQmRNUERRSQ",
+    "register": {
+      "bottom_text": "By signing up you agree to <a href=\"https://support.choicely.com/terms\" target=\"_blank\">Terms of Service</a> and <a href=\"https://support.choicely.com/privacy\" target=\"_blank\">Privacy Policy</a>",
+      "description": "This is description of Choicely Studio app",
+      "is_powered_by_choicely": true,
+      "powered_by_choicely_link": "https://choicely.com/",
+      "style": {
+        "alpha": 1.0,
+        "bg_color": "#FFFFFF",
+        "letter_spacing": 0.0,
+        "line_height": 0,
+        "max_lines": 0,
+        "primary_color": "#4CE2A7",
+        "secondary_color": "#4CE2A7",
+        "text_color": "#737373"
+      },
+      "title": "Sign up"
+    }
+  },
+  "title": "Web App",
+  "toolbar": {
+    "image": {
+      "analytic_id": "eu_imge2v31tVxFRq8fUCEil8o",
+      "created": "2024-01-03T12:34:28Z",
+      "format": "webp",
+      "has_alpha": true,
+      "key": "Y2hvaWNlbHktZXUvaW1hZ2VzL2UydjMxdFZ4RlJxOGZVQ0VpbDhv",
+      "mini_data": "AQQyMgAMAwEAAhEDEQA/AOlJAGTwKo3F+clYf++jSajOc+Sp92qiKDlrVWnyxJGkdzlmJ+poUkHIJH0ojQyOqjqTU1zB5DgAkqRwak5bSa5h8N3Ihw3zD361fjdZF3KcisgVPbymKQf3T1pJmlKu4u0tjSoooqz0DClfzJWY9zU9ra+eCd4GO3eq7KVdlPY4p8UjROGQ4NB5ya5veNO3tFgbduLHFSTRLMm1uO+RTo2LxqxGMjOKdQdyjHlsloVfsKf32o+xJ/eale8VHKlDkHFJ9tX+4fzqdDB+wW5OEIAG48UVGLjIB8s80U7o154FLUISk3mAfK/86qituSNZUKOMg1lz2skJzjcvqKZz1qbT5kW5L1EULENxA69qbDfHOJR+IqiKUVNzN153uT3DK8zMhyDSRIZHCjvSRRvIcKM1oQQCFfVj1NK1whTdWV3sShQAAB0opaKs9GwUUUUAZ98ig8KB9BUNsAXGQD9aKKlnmz+M1VAAwAAPalooqj0Y7BRRRQM/",
+      "ratio": 1.0,
+      "status": "0",
+      "title": "",
+      "updated": "2024-01-03T12:34:29Z"
+    },
+    "style": {
+      "alpha": 1.0,
+      "bg_color": "#737373",
+      "gravity": "left",
+      "letter_spacing": 0.0,
+      "line_height": 0,
+      "max_lines": 0,
+      "text_color": "#4CE2A7"
+    },
+    "subtitle": "",
+    "title": ""
+  },
+  "updated": "2024-01-03T12:43:47Z"
+}

@@ -1,10 +1,21 @@
 "use client";
+import app from "../_data/app_mock.json";
 
 import Image from "next/image";
 import { useState } from "react";
 
 export default function Home() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+
+  const bottomNav = app.screens?.[0]?.bottom_nav;
+  const toolbar = app.screens?.[0]?.toolbar;
+  const imageToolbar = toolbar?.image?.key;
+
+  const styles = bottomNav?.style;
+  const backgroundColor = styles?.primary_color;
+  const color = styles?.secondary_color;
+
+  console.log({ styles });
 
   return (
     <main className="bg-white sm:bg-black md:bg-green-700 lg:bg-yellow-400">
@@ -137,43 +148,31 @@ export default function Home() {
           />
         </div>
       </nav> */}
-      <nav className="flex justify-center items-center h-16 fixed bottom-0 left-0 right-0 bg-white sm:top-0 sm:justify-between sm:px-5">
-        <div className="hidden sm:block">
-          <Image
-            className="cursor-pointer"
-            src="./next.svg"
-            alt="..."
-            width={32}
-            height={32}
-          />
-        </div>
+      <nav
+        className="flex justify-center items-center h-16 fixed bottom-0 left-0 right-0 bg-white sm:top-0 sm:justify-between sm:px-5"
+        style={{ color, backgroundColor }}
+      >
+        {imageToolbar && (
+          <div className="hidden sm:block">
+            <Image
+              className="cursor-pointer"
+              src={`https://backend.choicely.com/images/${imageToolbar}/serve/`}
+              alt="..."
+              width={32}
+              height={32}
+            />
+          </div>
+        )}
         <div className="nav-links flex flex-row items-center px-5 sm:px-0 static min-h-fit">
-          <ul className="flex flex-column items-center gap-[4vw] text-black">
-            <li>
-              <a className="hover:text-gray-500" href="#">
-                Products
-              </a>
-            </li>
-            <li>
-              <a className="hover:text-gray-500" href="#">
-                Solution
-              </a>
-            </li>
-            <li>
-              <a className="hover:text-gray-500" href="#">
-                Resource
-              </a>
-            </li>
-            <li>
-              <a className="hover:text-gray-500" href="#">
-                Developers
-              </a>
-            </li>
-            <li>
-              <a className="hover:text-gray-500" href="#">
-                Pricing
-              </a>
-            </li>
+          <ul className="flex flex-column items-center gap-[4vw]">
+            {bottomNav?.nav_list &&
+              bottomNav.nav_list.map((navItem) => (
+                <li key={navItem.title}>
+                  <a className="hover:text-gray-500" href={`${navItem.title}`}>
+                    {navItem.title}
+                  </a>
+                </li>
+              ))}
           </ul>
         </div>
 
